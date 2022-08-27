@@ -1,0 +1,116 @@
+@media only screen and (min-width:200px) {
+   
+    /* css for navbar*/
+#top{
+    color: rgb(27, 47, 112);
+    background-color:rgb(206, 163, 23);
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+
+    #logo->img{ 
+        position:fixed; 
+        top:0; 
+        left:0; 
+        width: 20px;
+        height: 20px;
+    } 
+
+.navbar{
+     
+     display: flex;
+     
+     background-color: rgb(80, 29, 29);
+     height: 40px;
+     align-items: center;
+     margin-top: 0px;
+     padding-top: 0px;
+}
+
+.navitem a:hover{
+   color: aqua;
+   font-size: 22px;
+   padding: 18px;
+}
+a{
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.room{
+    display: flex;
+     flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+
+}
+/* css for background*/
+img{
+    width: 275px;
+    height: 183px;
+}
+.nextpage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    background-color: rgb(160, 121, 128);
+}
+}
+
+ #but1 {
+        background-color: brown; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 17px;
+        border-radius: 15px;
+      }
+      
+ #but2 {
+    background-color: brown; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    border-radius: 15px;
+  }
+  #but3 {
+    background-color: brown; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    border-radius: 15px;
+  }
+  #but4 {
+    background-color: brown; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    border-radius: 15px;
+  }
+@media only screen and(max-width:400px)
+{
+    
+}
